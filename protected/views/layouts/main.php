@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" type="text/x-icon" href="<?php echo Yii::app()->request->baseUrl; ?>/favicon.ico" />
 	<meta name="language" content="en" />
 
 	<!-- blueprint CSS framework -->

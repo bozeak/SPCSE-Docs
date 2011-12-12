@@ -80,6 +80,8 @@ class TDb extends CActiveRecord
 		return array(
 			'author0' => array(self::BELONGS_TO, 'Users', 'author'),
 			'subdiv0' => array(self::BELONGS_TO, 'Subdiv', 'subdiv'),
+            'resp2'   => array(self::BELONGS_TO, 'Responsabil','responsabil'),
+            'tiprasp' => array(self::BELONGS_TO, 'Tipraspuns','respons_type'),
 		);
 	}
 
@@ -89,26 +91,26 @@ class TDb extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id' => 'ID',
-			'subdiv' => 'Subdiv',
-			'nr_reg' => 'Nr Reg',
-			'date_reg' => 'Date Reg',
-			'date_doc' => 'Date Doc',
-			'elab' => 'Elab',
-			'id_elab' => 'Id Elab',
-			'address' => 'Address',
-			'nr_cadastr' => 'Nr Cadastr',
-			'tel' => 'Tel',
-			'content' => 'Content',
-			'responsabil' => 'Responsabil',
-			'get_exec' => 'Get Exec',
-			'nr_respons' => 'Nr Respons',
-			'date_respons' => 'Date Respons',
-			'respons_type' => 'Respons Type',
-			'note' => 'Note',
-			'dossier' => 'Dossier',
-			'author' => 'Author',
-			'date_add' => 'Date Add',
+			'id' => 'Nr d/o',
+			'subdiv' => 'Subdiviziunea',
+			'nr_reg' => 'Nr. de înregistrare',
+			'date_reg' => 'Data înregistrării',
+			'date_doc' => 'Data cererii',
+			'elab' => 'Solicitant',
+			'id_elab' => 'Cod personal/ IDNO',
+			'address' => 'Adresa',
+			'nr_cadastr' => 'Nr. cadastral',
+			'tel' => 'Telefon de contact',
+			'content' => 'Scurta expunere',
+			'responsabil' => 'Executorul',
+			'get_exec' => 'Data înmînării spre executare',
+			'nr_respons' => 'Nr. actului',
+			'date_respons' => 'Data răspunsului',
+			'respons_type' => 'Tipul răspunsului',
+			'note' => 'Notă',
+			'dossier' => 'Dosar',
+			'author' => 'Autor',
+			'date_add' => 'Data adăugării',
 		);
 	}
 

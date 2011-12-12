@@ -3,30 +3,57 @@ $this->breadcrumbs=array(
 	'Tdbs',
 );
 
-$this->menu=array(
+/*$this->menu=array(
 	array('label'=>'Create TDb', 'url'=>array('create')),
 	array('label'=>'Manage TDb', 'url'=>array('admin')),
-);
+);*/
 ?>
 
 <h1>Tdbs</h1>
 
 <?php
-//$this->widget('zii.widgets.CListView', array(
-//	'dataProvider'=>$dataProvider,
-//	'itemView'=>'_view',
-//)); 
-?>
+function textLimit($string, $length, $replacer = '...')
+{
+    if(strlen($string) > $length)
+        return (preg_match('/^(.*)\W.*$/', substr($string, 0, $length+1), $matches) ? $matches[1] : substr($string, 0, $length)) . $replacer;
 
-<?php 
+    return $string;
+}
+
 $this->widget('zii.widgets.grid.CGridView', array(
 	'dataProvider'=>$dataProvider,
 	'enableSorting'=>false,
 	'columns'=>array(
 		'id',
-		'subdiv',
-		'date_reg',
-        'date_doc',
+        array(
+            'header'=>'Nr. de înregistrare <br />Data înregistrării',
+            'value'=>'$data->nr_reg."<br/>".nl2br($data->date_reg)',
+            'type'=>'raw',
+        ),
+        'elab',
+
+        array(
+        //(!Yii::app()->user->isGuest)
+            'name'=>'address',
+            'value'=>'$data->address',
+            'visible'=>!Yii::app()->user->isGuest,
+        ),
+        array(
+            'name'=>'content',
+            'value'=>'textLimit($data->content,30)',
+        ),
+
+        array(
+            'name'=>'responsabil',
+            'value'=>'($data->resp2)?nl2br($data->resp2->grad0->md)." ".nl2br($data->resp2->fullname)."<br />".nl2br($data->resp2->contacts):""',
+            'type'=>'raw',
+        ),
+
+        array(
+            'header'=>'Nr. act/Data răspunsului<br />Tipul răspunsului',
+            'value'=>'($data->tiprasp)?$data->tiprasp->name:" "',
+            'type'=>'html',
+        ),
 ),
 ));
 ?>
