@@ -25,7 +25,8 @@ $this->widget('zii.widgets.grid.CGridView', array(
 	'columns'=>array(
 		'id',
 		'subdiv',
-		'date_reg',	
+		'date_reg',
+        'date_doc',
 ),
 ));
 ?>
