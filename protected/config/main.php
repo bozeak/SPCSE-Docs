@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'DocEvidence v2.0',
+	'name'=>'DocEvidence v2.0alpha',
 	'defaultController'=>'TDb',
 
 	// preloading 'log' component
