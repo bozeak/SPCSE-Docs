@@ -1,0 +1,814 @@
+2011/12/09 16:34:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:38:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:38:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:38:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:38:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb/index
+2011/12/09 16:39:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb
+2011/12/09 16:39:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tdb".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tdb')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tdb
+2011/12/09 16:39:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:39:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 16:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tDb/index".' in /home/alex/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#1 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/tDb/index
+2011/12/09 17:07:41 [error] [exception.CException] exception 'CException' with message 'The "dataProvider" property cannot be empty.' in /home/alex/yii/framework/zii/widgets/CBaseListView.php:103
+Stack trace:
+#0 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(264): CBaseListView->init()
+#1 /home/alex/yii/framework/web/CBaseController.php(140): CGridView->init()
+#2 /home/alex/yii/framework/web/CBaseController.php(165): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 /var/www/www.docs.loc/web/protected/views/tDb/index.php(22): CBaseController->widget('zii.widgets.gri...', Array)
+#4 /home/alex/yii/framework/web/CBaseController.php(119): require('/var/www/www.do...')
+#5 /home/alex/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/var/www/www.do...', Array, true)
+#6 /home/alex/yii/framework/web/CController.php(866): CBaseController->renderFile('/var/www/www.do...', Array, true)
+#7 /home/alex/yii/framework/web/CController.php(779): CController->renderPartial('index', Array, true)
+#8 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(133): CController->render('index', Array)
+#9 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#10 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#14 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#17 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('index')
+#19 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('tDb/index')
+#20 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#21 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#22 {main} REQUEST_URI=/tDb/index
+2011/12/09 17:19:25 [error] [exception.CException] exception 'CException' with message 'Property "CActiveDataProvider.order" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('order', 'id DESC')
+#1 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(132): CActiveDataProvider->__construct('TDb', Array)
+#2 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#3 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#7 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#10 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#12 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#13 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#14 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#15 {main} REQUEST_URI=/
+2011/12/09 17:19:26 [error] [exception.CException] exception 'CException' with message 'Property "CActiveDataProvider.order" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('order', 'id DESC')
+#1 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(132): CActiveDataProvider->__construct('TDb', Array)
+#2 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#3 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#7 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#10 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#12 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#13 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#14 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#15 {main} REQUEST_URI=/
+2011/12/09 17:19:34 [error] [exception.CException] exception 'CException' with message 'Property "CActiveDataProvider.orderBy" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('orderBy', 'id DESC')
+#1 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(132): CActiveDataProvider->__construct('TDb', Array)
+#2 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#3 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#7 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#10 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#12 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#13 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#14 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#15 {main} REQUEST_URI=/
+2011/12/09 17:20:38 [error] [exception.CException] exception 'CException' with message 'Property "CDbCriteria.orderBy" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/db/schema/CDbCriteria.php(153): CComponent->__set('orderBy', 'id DESC')
+#1 /home/alex/yii/framework/web/CActiveDataProvider.php(102): CDbCriteria->__construct(Array)
+#2 /home/alex/yii/framework/base/CComponent.php(153): CActiveDataProvider->setCriteria(Array)
+#3 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('criteria', Array)
+#4 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(134): CActiveDataProvider->__construct('TDb', Array)
+#5 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#6 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#7 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#8 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#10 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#12 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#15 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#16 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#17 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#18 {main} REQUEST_URI=/
+2011/12/09 17:20:38 [error] [exception.CException] exception 'CException' with message 'Property "CDbCriteria.orderBy" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/db/schema/CDbCriteria.php(153): CComponent->__set('orderBy', 'id DESC')
+#1 /home/alex/yii/framework/web/CActiveDataProvider.php(102): CDbCriteria->__construct(Array)
+#2 /home/alex/yii/framework/base/CComponent.php(153): CActiveDataProvider->setCriteria(Array)
+#3 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('criteria', Array)
+#4 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(134): CActiveDataProvider->__construct('TDb', Array)
+#5 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#6 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#7 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#8 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#10 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#12 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#15 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#16 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#17 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#18 {main} REQUEST_URI=/
+2011/12/09 17:20:39 [error] [exception.CException] exception 'CException' with message 'Property "CDbCriteria.orderBy" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/db/schema/CDbCriteria.php(153): CComponent->__set('orderBy', 'id DESC')
+#1 /home/alex/yii/framework/web/CActiveDataProvider.php(102): CDbCriteria->__construct(Array)
+#2 /home/alex/yii/framework/base/CComponent.php(153): CActiveDataProvider->setCriteria(Array)
+#3 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('criteria', Array)
+#4 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(134): CActiveDataProvider->__construct('TDb', Array)
+#5 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#6 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#7 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#8 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#10 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#12 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#15 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#16 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#17 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#18 {main} REQUEST_URI=/
+2011/12/09 17:20:39 [error] [exception.CException] exception 'CException' with message 'Property "CDbCriteria.orderBy" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/db/schema/CDbCriteria.php(153): CComponent->__set('orderBy', 'id DESC')
+#1 /home/alex/yii/framework/web/CActiveDataProvider.php(102): CDbCriteria->__construct(Array)
+#2 /home/alex/yii/framework/base/CComponent.php(153): CActiveDataProvider->setCriteria(Array)
+#3 /home/alex/yii/framework/web/CActiveDataProvider.php(81): CComponent->__set('criteria', Array)
+#4 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(134): CActiveDataProvider->__construct('TDb', Array)
+#5 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#6 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#7 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#8 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#10 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#12 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#15 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#16 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#17 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#18 {main} REQUEST_URI=/
+2011/12/09 17:21:50 [error] [php] get_class() expects parameter 1 to be object, boolean given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:21:51 [error] [php] get_class() expects parameter 1 to be object, boolean given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:21:51 [error] [php] get_class() expects parameter 1 to be object, boolean given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:06 [error] [php] get_class() expects parameter 1 to be object, string given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:07 [error] [php] get_class() expects parameter 1 to be object, string given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:07 [error] [php] get_class() expects parameter 1 to be object, string given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:15 [error] [php] get_class() expects parameter 1 to be object, string given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:15 [error] [php] get_class() expects parameter 1 to be object, string given (/home/alex/yii/framework/web/helpers/CHtml.php:2028)
+Stack trace:
+#0 /home/alex/yii/framework/web/helpers/CHtml.php(1197): resolveNameID()
+#1 /home/alex/yii/framework/zii/widgets/grid/CDataColumn.php(99): activeTextField()
+#2 /home/alex/yii/framework/zii/widgets/grid/CGridColumn.php(103): CDataColumn->renderFilterCellContent()
+#3 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(445): CDataColumn->renderFilterCell()
+#4 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(423): CGridView->renderFilter()
+#5 /home/alex/yii/framework/zii/widgets/grid/CGridView.php(393): CGridView->renderTableHeader()
+#6 /home/alex/yii/framework/zii/widgets/CBaseListView.php(158): CGridView->renderItems()
+#7 unknown(0): CGridView->renderSection()
+#8 /home/alex/yii/framework/zii/widgets/CBaseListView.php(141): preg_replace_callback()
+#9 /home/alex/yii/framework/zii/widgets/CBaseListView.php(126): CGridView->renderContent()
+#10 /home/alex/yii/framework/web/CBaseController.php(166): CGridView->run()
+#11 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): TDbController->widget()
+#12 /home/alex/yii/framework/web/CBaseController.php(119): require()
+#13 /home/alex/yii/framework/web/CBaseController.php(88): TDbController->renderInternal()
+#14 /home/alex/yii/framework/web/CController.php(866): TDbController->renderFile()
+#15 /home/alex/yii/framework/web/CController.php(779): TDbController->renderPartial()
+#16 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): TDbController->render()
+#17 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#18 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams()
+#19 /home/alex/yii/framework/web/filters/CFilterChain.php(134): TDbController->runAction()
+#20 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#21 /home/alex/yii/framework/web/CController.php(1144): CAccessControlFilter->filter()
+#22 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): TDbController->filterAccessControl()
+#23 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#24 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#25 /home/alex/yii/framework/web/CController.php(257): TDbController->runActionWithFilters()
+#26 /home/alex/yii/framework/web/CWebApplication.php(277): TDbController->run()
+#27 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController()
+#28 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#29 /var/www/www.docs.loc/web/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/www.docs.loc/web/protected/views/tDb/index.php (30)
+in /var/www/www.docs.loc/web/protected/controllers/TDbController.php (137)
+in /var/www/www.docs.loc/web/index.php (13)
+2011/12/09 17:22:43 [error] [exception.CException] exception 'CException' with message 'Property "CGridView.sortable" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CWidgetFactory.php(162): CComponent->__set('sortable', false)
+#1 /home/alex/yii/framework/web/CBaseController.php(139): CWidgetFactory->createWidget(Object(TDbController), 'zii.widgets.gri...', Array)
+#2 /home/alex/yii/framework/web/CBaseController.php(165): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): CBaseController->widget('zii.widgets.gri...', Array)
+#4 /home/alex/yii/framework/web/CBaseController.php(119): require('/var/www/www.do...')
+#5 /home/alex/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/var/www/www.do...', Array, true)
+#6 /home/alex/yii/framework/web/CController.php(866): CBaseController->renderFile('/var/www/www.do...', Array, true)
+#7 /home/alex/yii/framework/web/CController.php(779): CController->renderPartial('index', Array, true)
+#8 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): CController->render('index', Array)
+#9 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#10 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#14 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#17 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#19 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#20 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#21 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#22 {main} REQUEST_URI=/
+2011/12/09 17:22:44 [error] [exception.CException] exception 'CException' with message 'Property "CGridView.sortable" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CWidgetFactory.php(162): CComponent->__set('sortable', false)
+#1 /home/alex/yii/framework/web/CBaseController.php(139): CWidgetFactory->createWidget(Object(TDbController), 'zii.widgets.gri...', Array)
+#2 /home/alex/yii/framework/web/CBaseController.php(165): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): CBaseController->widget('zii.widgets.gri...', Array)
+#4 /home/alex/yii/framework/web/CBaseController.php(119): require('/var/www/www.do...')
+#5 /home/alex/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/var/www/www.do...', Array, true)
+#6 /home/alex/yii/framework/web/CController.php(866): CBaseController->renderFile('/var/www/www.do...', Array, true)
+#7 /home/alex/yii/framework/web/CController.php(779): CController->renderPartial('index', Array, true)
+#8 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): CController->render('index', Array)
+#9 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#10 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#14 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#17 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#19 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#20 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#21 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#22 {main} REQUEST_URI=/
+2011/12/09 17:22:44 [error] [exception.CException] exception 'CException' with message 'Property "CGridView.sortable" is not defined.' in /home/alex/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/alex/yii/framework/web/CWidgetFactory.php(162): CComponent->__set('sortable', false)
+#1 /home/alex/yii/framework/web/CBaseController.php(139): CWidgetFactory->createWidget(Object(TDbController), 'zii.widgets.gri...', Array)
+#2 /home/alex/yii/framework/web/CBaseController.php(165): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 /var/www/www.docs.loc/web/protected/views/tDb/index.php(30): CBaseController->widget('zii.widgets.gri...', Array)
+#4 /home/alex/yii/framework/web/CBaseController.php(119): require('/var/www/www.do...')
+#5 /home/alex/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/var/www/www.do...', Array, true)
+#6 /home/alex/yii/framework/web/CController.php(866): CBaseController->renderFile('/var/www/www.do...', Array, true)
+#7 /home/alex/yii/framework/web/CController.php(779): CController->renderPartial('index', Array, true)
+#8 /var/www/www.docs.loc/web/protected/controllers/TDbController.php(137): CController->render('index', Array)
+#9 /home/alex/yii/framework/web/actions/CInlineAction.php(50): TDbController->actionIndex()
+#10 /home/alex/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#11 /home/alex/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /home/alex/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /home/alex/yii/framework/web/CController.php(1144): CFilter->filter(Object(CFilterChain))
+#14 /home/alex/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/alex/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/alex/yii/framework/web/CController.php(283): CFilterChain->run()
+#17 /home/alex/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/alex/yii/framework/web/CWebApplication.php(277): CController->run('')
+#19 /home/alex/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#20 /home/alex/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#21 /var/www/www.docs.loc/web/index.php(13): CApplication->run()
+#22 {main} REQUEST_URI=/
