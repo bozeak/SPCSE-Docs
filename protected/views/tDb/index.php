@@ -23,6 +23,7 @@ function textLimit($string, $length, $replacer = '...')
 $this->widget('zii.widgets.grid.CGridView', array(
 	'dataProvider'=>$dataProvider,
 	'enableSorting'=>false,
+    'nullDisplay'=>'Not set',
 	'columns'=>array(
 		'id',
         array(
@@ -31,16 +32,15 @@ $this->widget('zii.widgets.grid.CGridView', array(
             'type'=>'raw',
         ),
         'elab',
-
         array(
-        //(!Yii::app()->user->isGuest)
             'name'=>'address',
             'value'=>'$data->address',
             'visible'=>!Yii::app()->user->isGuest,
         ),
         array(
             'name'=>'content',
-            'value'=>'textLimit($data->content,30)',
+            'value'=>'utf8_encode(textLimit($data->content,30))',
+            'visible'=>!Yii::app()->user->isGuest,
         ),
 
         array(
@@ -52,7 +52,18 @@ $this->widget('zii.widgets.grid.CGridView', array(
         array(
             'header'=>'Nr. act/Data răspunsului<br />Tipul răspunsului',
             'value'=>'($data->tiprasp)?$data->tiprasp->name:" "',
-            'type'=>'html',
+            'type'=>'raw',
+            'visible'=>!Yii::app()->user->isGuest,
+        ),
+        array(
+            'name'=>'dossier',
+            'value'=>'$data->dossier',
+            'visible'=>!Yii::app()->user->isGuest,
+        ),
+        array(
+            'class'=>'CButtonColumn',
+            'template'=>'{view}{update}',
+            'visible'=>!Yii::app()->user->isGuest,
         ),
 ),
 ));
